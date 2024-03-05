@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myQuiz</string>
+    <string name="app_title">My Quiz</string>
+    <string name="question_txt">Un intent me permite navegar de una activity a otra y ala vez pasar un valor?</string>
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+    <string name="toast_true">Correcto...!</string>
+    <string name="toast_false">Incorrecto...!</string>
+</resources>
